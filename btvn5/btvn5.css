@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+/* header */
+header{
+    height:10vh;
+    background-color:rgb(76, 175, 80);
+    color :white;
+    position:relative;
+}
+.Mylogo{
+    position:relative;
+    left:20px;
+    top:23px;
+}
+nav{
+    position:absolute;
+    right: 4px;
+    top:23px;
+}
+a{
+    color:white;
+    text-decoration:none;
+    padding-bottom:89px;
+    margin:5px;
+}
+/* ss1 */
+.div1{
+    height:36vh;
+    margin-bottom: 5vh;
+    background-color:rgb(244, 244, 244);
+    text-align:center;
+}
+h1{
+    padding-top:13%;
+}
+.Weprovide {
+    margin-top:10px;
+    font-size:13px;
+}
+.getstarted{
+    width:100px;
+    height:30px;
+    background-color:rgb(76, 175, 80);
+    color:white;
+    border:0;
+    border-radius:4px;
+}
+/* ss2 */
+button{
+    margin:5px;
+    width:30vh;
+    height:25px;
+    border:0;
+    border-radius: 3px;
+}
+/* footer */
+footer{
+    background-color: rgb(51, 51, 51);
+    color:white;
+    height:25px;
+    text-align:center;
+    font-size: 15px;
+}
+
+
